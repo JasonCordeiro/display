@@ -10,7 +10,7 @@ li{
 }
 
 a{
-  display: inline-block;
+  display: flex;
   text-decoration: none;
   color: #fff;
   background-color: #308ebd;
